@@ -1,0 +1,8 @@
+{
+  "name": "Pine and Peaks",
+  "description": "Complete DGU Venture Quest plan and interactive booking portal for The Pine and Peaks, a nature-based homestay \u0026 Kafni Glacier basecamp in Bageshwar, Kumaon Himalayas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
